@@ -43,6 +43,7 @@
     transition: all 0.3 ease;
     cursor: pointer;
     border-radius: 3px; /* Rounded corners for buttons */
+    font-weight: 700;
 }
 .form button:hover, .form button:active, .form button:focus {
     background: #054FED;
