@@ -30,6 +30,7 @@
     border-radius: 3px; /* Rounded corners for input fields */
     text-align: center;
     color: #125CFA;
+    border: 1px solid #c5e79b;
 }
 .form button {
     font-family: "Roboto", sans-serif;
