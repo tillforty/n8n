@@ -28,6 +28,8 @@
     font-size: 16px;
     font-weight: 700;
     border-radius: 3px; /* Rounded corners for input fields */
+    text-align: center;
+    color: #125CFA;
 }
 .form button {
     font-family: "Roboto", sans-serif;
@@ -43,7 +45,6 @@
     transition: all 0.3 ease;
     cursor: pointer;
     border-radius: 3px; /* Rounded corners for buttons */
-    font-weight: 700;
 }
 .form button:hover, .form button:active, .form button:focus {
     background: #054FED;
